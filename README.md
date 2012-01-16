@@ -1,13 +1,13 @@
 CV Maupetit Julien
 ==================
 
-Latest update : Jan. 2012
+Last update: Jan. 2012
 
 Dependancies
 ------------
 
-* XeLaTeX
-* Fontin font (please refer to: http://www.exljbris.com/fontin.html and download OpenType font even if you are on a Mac!)
+* [XeLaTeX](http://en.wikipedia.org/wiki/XeTeX "XeLaTeX on Wikipedia")
+* [Fontin font](http://www.exljbris.com/fontin.html "Download Fontin Font") installed on your system. Beware to download OpenType font for using with XeLaTex, even if you are on a Mac!
 
 
 Compilation
