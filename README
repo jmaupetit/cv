@@ -7,4 +7,8 @@ Jan. 2012
 ## Dependancies
 
 * XeLaTeX
-* Fontin font (please refer to: http://www.exljbris.com/fontin.html and download OpenType font even if you are on a Mac!) 
+* Fontin font (please refer to: http://www.exljbris.com/fontin.html and download OpenType font even if you are on a Mac!)
+
+## Compilation
+
+To generate the PDF file, please type the 'make' command in a terminal 
