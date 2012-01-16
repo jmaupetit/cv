@@ -19,3 +19,9 @@ To generate the PDF file, follow these comands:
     me@computer $ make
 
 And that's it!
+
+
+Credits
+-------
+
+This Curriculum Vitae is freely inspired from [http://www.cv-templates.info/2009/03/professional-cv-latex/](http://www.cv-templates.info/2009/03/professional-cv-latex/ "See the original template"). This site seems down for now ...
