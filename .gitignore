@@ -1,0 +1,8 @@
+*.log
+*.aux*
+CV_Maupetit_Julien_EN.bcf
+CV_Maupetit_Julien_EN.d
+CV_Maupetit_Julien_EN.fls
+CV_Maupetit_Julien_EN.out
+CV_Maupetit_Julien_EN.out.make
+CV_Maupetit_Julien_EN.run.xml
