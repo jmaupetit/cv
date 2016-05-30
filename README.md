@@ -13,7 +13,7 @@ Dependancies
 Compilation
 -----------
 
-To generate the PDF file, follow these comands:
+To generate the PDF file, follow these commands:
 
     me@computer $ cd /path/to/cv/
     me@computer $ make
