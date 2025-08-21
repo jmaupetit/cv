@@ -1,6 +1,9 @@
+*.fls
 *.log
 *.aux*
+CV_Maupetit_Julien_EN.bbl
 CV_Maupetit_Julien_EN.bcf
+CV_Maupetit_Julien_EN.blg
 CV_Maupetit_Julien_EN.d
 CV_Maupetit_Julien_EN.fls
 CV_Maupetit_Julien_EN.out
